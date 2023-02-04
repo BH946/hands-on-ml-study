@@ -13,4 +13,5 @@
 
 ## Move
 
-* [Part1]() 이동하기
+* [Part1](./BH946/hands_on_ml_study/tree/main/part1) 이동하기
+* [Part1](./tree/main/part1) 이동하기
