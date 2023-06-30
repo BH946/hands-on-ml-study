@@ -16,4 +16,5 @@
 * **[Chapter4](./chapter4/Chapter04_Model-Train.ipynb) : 챕터 4는 모델훈련 - 여러 회귀, 분류 모델들 훈련법 소개**
 * **[Chapter5](./chapter5/Chapter05_SVM.ipynb) : 챕터 5는 SVM(서포트 벡터 머신) - 분류(선형, 비선형), 회귀모델**
 * **[Chapter6](./chapter6/Chapter06_Decision_Tree.ipynb) : 챕터 6는 결정트리 - 분류, 회귀모델**
+* **[Chapter7](./chapter7/Chapter07_EnsembleLearning_and_RandomRorests.ipynb) : 챕터 7은 앙상블 학습 - 투표기반, 배깅, 랜덤 포레스트, 부스팅(에이다, 그레디언트, SGBoost)**
 
